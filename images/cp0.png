@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Christian's Personal Site</title>
+</head>
+
+<body>
+  <img src="images/cp0.png" alt="CP0 lmao">
+
+  <h1>Christian</h1>
+  <p><em>I am <stong><a href=""></a>da goat</stong> ?</em></p>
+
+  <p>I am da goat da goat da goat and the goat</p>
+  <hr size="3" noshade>
+
+  <h3>My Life</h3>
+  <ul>
+    <li>Yes, I am the goat sadly</li>
+    <li><strong>Yes, DBook is a fraud!</strong></li>
+    <li>No, CP0 does <em>NOT</em> have any rings!</li>
+  </ul>
+  
+  <ol>
+    <li>goat</li>
+    <li> Your goat</li>
+    <li>sadly</li>
+  </ol>
+
+</body>
+
+</html>
